@@ -1,0 +1,8 @@
+0: red
+1: green
+2: red
+3: green
+4: blue
+5: purple
+6: red
+7: orange
